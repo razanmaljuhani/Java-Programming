@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:33 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17008, Name : Mohammed_AlSalhi, Nationality : Saudi, Date Of Birth :1997-5-27, Gender:        M        , Phone:        38642550        , Address: Jeddah----------------------------------------------------------------------------------------
+, Department : Information_Technology,Semester = 5
+	, CGPA:        3.67
+, Enrollment Date : Thu Jun 05 00:00:00 AST 3913
+------------------------------------- Teacher Detail are as Follows: ---ID : 44254, Name : Shokat_Azeez, Nationality : Pakistani, Date Of Birth :1982-7-21, Gender:        M        , Phone:        567894874        , Address: Kandara, Job Title : Lecturer, Office Number : 354, On Leave : false, Degree: Masters, Department: CS,Teaching Hours : 18.5
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 35822, Name : Ghazi_Alqahtani, Nationality : Saudi, Date Of Birth :1977-8-22, Gender:        M        , Phone:        523003344        , Address: Rehab, Job Title : Admin_officer, Office Number : 198, On Leave : true, Year(s) of Invigilaton Experience: 5, Invigilaton Expertise: Remote_Invigilation
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 508, Lab Name : Graphics_Lab, Credit Hour : 2.5, Labe Code : 503, Lab Name : Graphics_Lab, Credit Hour : 2.5, Labe Code : 504, Lab Name : Graphics_Lab, Credit Hour : 1.5]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 403, Course Title : Internet_Programming, Credit Hours :2.0, Course Code : 204, Course Title : Data_Structure, Credit Hours :3.0, Course Code : 301, Course Title : Artificial_Intelligence, Credit Hours :3.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1008, Floor : First, Building No.: 31
+----------Total Hours : 14.5--------

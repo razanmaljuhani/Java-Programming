@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:33 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17020, Name : Abdullah_Abkar_AlMouled, Nationality : Egyption, Date Of Birth :1998-11-19, Gender:        M        , Phone:        36671196        , Address: Dammam----------------------------------------------------------------------------------------
+, Department : Computer_Science,Semester = 5
+	, CGPA:        2.22
+, Enrollment Date : Thu Jun 05 00:00:00 AST 3913
+------------------------------------- Teacher Detail are as Follows: ---ID : 50025, Name : Ahmed_Qahtani, Nationality : Saudi, Date Of Birth :1975-2-18, Gender:        M        , Phone:        500587414        , Address: Jamia, Job Title : Assistant_Professor, Office Number : 387, On Leave : false, Degree: PhD, Department: IS,Teaching Hours : 11.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 22519, Name : Ameer_Bandar, Nationality : Saudi, Date Of Birth :1975-4-28, Gender:        M        , Phone:        554803421        , Address: Jamia, Job Title : Developer, Office Number : 123, On Leave : false, Year(s) of Invigilaton Experience: 5, Invigilaton Expertise: Supervision
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 510, Lab Name : Graphics_Lab, Credit Hour : 2.0, Labe Code : 507, Lab Name : Graphics_Lab, Credit Hour : 1.5]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 353, Course Title : Software_Engineering2, Credit Hours :2.0, Course Code : 202, Course Title : Programming1, Credit Hours :3.0, Course Code : 201, Course Title : Computer_Fundamentals, Credit Hours :4.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1020, Floor : Ground, Building No.: 36
+----------Total Hours : 12.5--------

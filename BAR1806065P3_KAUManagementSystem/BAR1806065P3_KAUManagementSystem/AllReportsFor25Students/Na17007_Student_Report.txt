@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:32 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17007, Name : Nada_AlSabani, Nationality : Saudi, Date Of Birth :1998-4-21, Gender:        F        , Phone:        38551464        , Address: Madina----------------------------------------------------------------------------------------
+, Department : Information_Systems,Semester = 6
+	, CGPA:        3.45
+, Enrollment Date : Wed Mar 03 00:00:00 AST 3915
+------------------------------------- Teacher Detail are as Follows: ---ID : 48741, Name : Zahoor_Rashid, Nationality : Indian, Date Of Birth :1982-0-15, Gender:        M        , Phone:        538700365        , Address: Rehab, Job Title : Lecturer, Office Number : 466, On Leave : true, Degree: Masters, Department: CS,Teaching Hours : 16.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 58741, Name : Salman_Turki, Nationality : Saudi, Date Of Birth :1985-1-14, Gender:        M        , Phone:        505856612        , Address: Balad, Job Title : Office_Assistant, Office Number : 147, On Leave : false, Year(s) of Invigilaton Experience: 3, Invigilaton Expertise: Supervision
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 507, Lab Name : Graphics_Lab, Credit Hour : 1.5, Labe Code : 504, Lab Name : Graphics_Lab, Credit Hour : 1.5, Labe Code : 506, Lab Name : System_Analysis_Lab, Credit Hour : 2.0]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 391, Course Title : Computer_Graphics, Credit Hours :3.0, Course Code : 203, Course Title : Programming2, Credit Hours :3.0, Course Code : 204, Course Title : Data_Structure, Credit Hours :3.0, Course Code : 202, Course Title : Programming1, Credit Hours :3.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1007, Floor : Fourth, Building No.: 74
+----------Total Hours : 17.0--------
