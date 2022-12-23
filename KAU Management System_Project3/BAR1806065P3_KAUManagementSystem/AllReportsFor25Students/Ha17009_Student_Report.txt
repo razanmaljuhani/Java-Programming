@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:33 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17009, Name : Hamed_Hamadan_AlBishi, Nationality : Saudi, Date Of Birth :1999-7-12, Gender:        M        , Phone:        36670220        , Address: Makkah----------------------------------------------------------------------------------------
+, Department : Information_Systems,Semester = 6
+	, CGPA:        3.87
+, Enrollment Date : Sun Dec 21 00:00:00 AST 3913
+------------------------------------- Teacher Detail are as Follows: ---ID : 45149, Name : Ghada_Ali_Zahrani, Nationality : Saudi, Date Of Birth :1980-4-8, Gender:        F        , Phone:        508793215        , Address: Fayha, Job Title : Lecturer, Office Number : 381, On Leave : false, Degree: Masters, Department: IS,Teaching Hours : 11.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 35548, Name : Hamza_Jalal, Nationality : Saudi, Date Of Birth :1988-10-25, Gender:        M        , Phone:        547674174        , Address: Jamia, Job Title : Secretary, Office Number : 147, On Leave : false, Year(s) of Invigilaton Experience: 3, Invigilaton Expertise: Exam_Attendance
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 509, Lab Name : Programming_Lab, Credit Hour : 1.5, Labe Code : 506, Lab Name : System_Analysis_Lab, Credit Hour : 2.0]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 498, Course Title : Senior_Project, Credit Hours :1.0, Course Code : 301, Course Title : Artificial_Intelligence, Credit Hours :3.0, Course Code : 351, Course Title : Software_Engineering1, Credit Hours :3.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1009, Floor : Third, Building No.: 14
+----------Total Hours : 10.5--------

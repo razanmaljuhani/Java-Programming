@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:32 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17003, Name : Hussein_AlYami, Nationality : Saudi, Date Of Birth :1998-4-13, Gender:        M        , Phone:        38323444        , Address: Jeddah----------------------------------------------------------------------------------------
+, Department : Computer_Science,Semester = 6
+	, CGPA:        3.54
+, Enrollment Date : Thu Jun 05 00:00:00 AST 3913
+------------------------------------- Teacher Detail are as Follows: ---ID : 51478, Name : Alaa_Ahmad_Zahrani, Nationality : Saudi, Date Of Birth :1973-10-12, Gender:        M        , Phone:        534528754        , Address: Rehab, Job Title : Associate_Professor, Office Number : 478, On Leave : false, Degree: PhD, Department: IT,Teaching Hours : 13.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 35822, Name : Ghazi_Alqahtani, Nationality : Saudi, Date Of Birth :1977-8-22, Gender:        M        , Phone:        523003344        , Address: Rehab, Job Title : Admin_officer, Office Number : 198, On Leave : true, Year(s) of Invigilaton Experience: 5, Invigilaton Expertise: Remote_Invigilation
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 503, Lab Name : Graphics_Lab, Credit Hour : 2.5, Labe Code : 504, Lab Name : Graphics_Lab, Credit Hour : 1.5, Labe Code : 505, Lab Name : Software_Lab, Credit Hour : 1.5, Labe Code : 507, Lab Name : Graphics_Lab, Credit Hour : 1.5, Labe Code : 508, Lab Name : Graphics_Lab, Credit Hour : 2.5, Labe Code : 509, Lab Name : Programming_Lab, Credit Hour : 1.5]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 203, Course Title : Programming2, Credit Hours :3.0, Course Code : 498, Course Title : Senior_Project, Credit Hours :1.0, Course Code : 353, Course Title : Software_Engineering2, Credit Hours :2.0, Course Code : 403, Course Title : Internet_Programming, Credit Hours :2.0, Course Code : 204, Course Title : Data_Structure, Credit Hours :3.0, Course Code : 202, Course Title : Programming1, Credit Hours :3.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1003, Floor : Second, Building No.: 14
+----------Total Hours : 25.0--------

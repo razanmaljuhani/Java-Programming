@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:33 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17019, Name : Mohamed_Obaid_AlSahli, Nationality : Saudi, Date Of Birth :1998-7-11, Gender:        M        , Phone:        38642930        , Address: Riyadh----------------------------------------------------------------------------------------
+, Department : Information_Technology,Semester = 5
+	, CGPA:        2.7
+, Enrollment Date : Sat Jul 18 00:00:00 AST 3914
+------------------------------------- Teacher Detail are as Follows: ---ID : 44540, Name : Manzar_Zahrani, Nationality : Saudi, Date Of Birth :1965-6-30, Gender:        M        , Phone:        547803485        , Address: Kandara, Job Title : Professor, Office Number : 315, On Leave : false, Degree: PhD, Department: CS,Teaching Hours : 9.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 35548, Name : Hamza_Jalal, Nationality : Saudi, Date Of Birth :1988-10-25, Gender:        M        , Phone:        547674174        , Address: Jamia, Job Title : Secretary, Office Number : 147, On Leave : false, Year(s) of Invigilaton Experience: 3, Invigilaton Expertise: Exam_Attendance
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 509, Lab Name : Programming_Lab, Credit Hour : 1.5, Labe Code : 504, Lab Name : Graphics_Lab, Credit Hour : 1.5]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 498, Course Title : Senior_Project, Credit Hours :1.0, Course Code : 201, Course Title : Computer_Fundamentals, Credit Hours :4.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1019, Floor : Third, Building No.: 35
+----------Total Hours : 8.0--------

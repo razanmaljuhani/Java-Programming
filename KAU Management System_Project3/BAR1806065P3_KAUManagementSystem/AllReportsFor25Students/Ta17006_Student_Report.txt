@@ -1,0 +1,19 @@
+
+--------------- Welcome to KAU Management System ---------------
+
+--------- Current Date : Sun Mar 17 22:37:32 AST 2019--------
+Command: Print_Report
+--- Student Detail are as Follows: ---ID : 17006, Name : Tariq_Ahmed_AlAmri, Nationality : Saudi, Date Of Birth :1998-7-9, Gender:        M        , Phone:        33613365        , Address: Dammam----------------------------------------------------------------------------------------
+, Department : Computer_Science,Semester = 4
+	, CGPA:        1.87
+, Enrollment Date : Sat Jun 05 00:00:00 AST 3915
+------------------------------------- Teacher Detail are as Follows: ---ID : 53654, Name : Zaheer_Abbas, Nationality : Indian, Date Of Birth :1978-4-7, Gender:        M        , Phone:        505487196        , Address: Fayha, Job Title : Assistant_Professor, Office Number : 241, On Leave : false, Degree: PhD, Department: IS,Teaching Hours : 14.0
+----------------------------------
+--- Invigilator Detail are as Follows: ---ID : 55475, Name : Ali_Alghamdi, Nationality : Saudi, Date Of Birth :1990-5-8, Gender:        M        , Phone:        547871054        , Address: Kandara, Job Title : Secretary, Office Number : 124, On Leave : false, Year(s) of Invigilaton Experience: 2, Invigilaton Expertise: Remote_Invigilation
+----------------------------------
+------ Course Lab Details are as follows: ---[Labe Code : 506, Lab Name : System_Analysis_Lab, Credit Hour : 2.0, Labe Code : 501, Lab Name : Graphics_Lab, Credit Hour : 1.5, Labe Code : 510, Lab Name : Graphics_Lab, Credit Hour : 2.0]
+----------------------------------
+------ Course Details are as follows: ---[Course Code : 351, Course Title : Software_Engineering1, Credit Hours :3.0, Course Code : 202, Course Title : Programming1, Credit Hours :3.0, Course Code : 203, Course Title : Programming2, Credit Hours :3.0, Course Code : 201, Course Title : Computer_Fundamentals, Credit Hours :4.0]
+----------------------------------
+-----Exam Venue Details are as follows: Exam Venue No.: 1006, Floor : Second, Building No.: 41
+----------Total Hours : 18.5--------
